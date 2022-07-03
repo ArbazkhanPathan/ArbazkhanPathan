@@ -14,11 +14,7 @@
 * 🧠 AI
 
 
-- 🔭 I’m currently working on Crazy VITians 
-- 👯 I’m looking to collaborate on React based projects 
-- 🤔 I’m looking for help with backend  
-- 📫 How to reach me: arbazkhanpathan0348@gmail.com
-- 😄 Pronouns: He
+
 
 
 ## Overview😎
