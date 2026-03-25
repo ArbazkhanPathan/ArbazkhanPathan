@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArbazkhanPathan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning INT Mtech AI & ML
+- 🌱 I’m currently Building KIDEXA
 - 💞️ I’m looking to collaborate on SOME CODING PROJECTS
 - 📫 How to reach me still thinking
 
