@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArbazkhanPathan
 - 👀 I’m interested in coding
 - 🌱 I’m currently Building KIDEXA
-- 💞️ I’m looking to collaborate on SOME CODING PROJECTS
+- 💞️ I’m looking to collaborate on SOME COOL PROJECTS
 - 📫 How to reach me still thinking
 
 
